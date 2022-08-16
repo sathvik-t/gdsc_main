@@ -1,0 +1,19 @@
+.main-card {
+    background-color: white;
+    height: 600px;  
+}
+
+.content{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.announcement-heading{
+    font-size: 1.5rem;
+    color: #1765CC;
+}
+
+.announcement-image {
+    height: 40%;
+    background-color: grey;
+}

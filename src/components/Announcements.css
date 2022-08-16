@@ -1,0 +1,23 @@
+.announcement {
+    background-color: #f1f3f4;
+    padding: 50px;
+}
+
+.heading {
+    font-size: 1.7rem;
+    color: #292D33;
+}
+
+.subheading {
+    font-size: 1.6rem;
+    color: #292D33;
+    padding: 0px;
+    margin-bottom: 45px;  
+}
+
+.annoucement-grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 100px;
+    column-gap: 50px;
+}

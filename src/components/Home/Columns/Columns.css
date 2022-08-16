@@ -1,0 +1,28 @@
+.home-cols{
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    color: white;
+    background-color: #1E8E3E;
+}
+
+.first-hero-col {
+    width: 50%;
+    float: left;
+    padding: 15px;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.second-hero-col {
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
+
+.hero-img {
+    width: 100%;
+    height: 100%;
+}
